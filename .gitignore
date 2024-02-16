@@ -13,3 +13,7 @@ __pycache__/
 moe/
 cache/
 .DS_Store
+*.avi
+test.py
+requirements old.txt
+resources/nltk_data_dir/
